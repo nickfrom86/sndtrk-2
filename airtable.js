@@ -8,12 +8,12 @@ base('Table Name').create(
   [
     {
       fields: {
-        'id': 'Value 1',
-        'artist name': 'Value 2',
-        'followers': 'Value 3',
-        'popularity': 'Value 4',
-        'uri': 'Value 5',
-        'timestamp': 'Value 6'
+        'Artist ID': 'Value 1',
+        'Name': 'Value 2',
+        'Followers': 'Value 3',
+        'Popularity': 'Value 4',
+        'URI': 'Value 5',
+        'Timestamp': 'Value 6'
         // Add more fields as needed
       },
     },
